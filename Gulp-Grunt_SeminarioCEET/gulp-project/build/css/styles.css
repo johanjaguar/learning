@@ -1,0 +1,22 @@
+/* line 2, sources/scss/styles.scss */
+body h1 {
+  color: purple;
+}
+
+/* line 5, sources/scss/styles.scss */
+body h2 {
+  color: lime;
+}
+
+/* line 8, sources/scss/styles.scss */
+body p {
+  background: red;
+  color: blue;
+}
+
+/* line 12, sources/scss/styles.scss */
+body article {
+  padding: 2em;
+  background: blue;
+  color: red;
+}
